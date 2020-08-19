@@ -1,6 +1,6 @@
 # sarioRC
 
-SarioRC (render components) is a microframework written in PHP that make super easy to write a PHP web app with a components base approach.
+SarioRC (render components) is a microframework written in PHP that make super easy to write a PHP web app with a components base approach. Bootstrap 4 and Sass support are included.
 
 Example:
 
