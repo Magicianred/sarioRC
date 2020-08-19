@@ -3,7 +3,7 @@
 require_once "../server/core/functions.php"; 
 
 render_component("header", [
-    "title" => "SarioRC",
+    "title" => "About",
     "styles" => [
         "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
         "./css/style.css"

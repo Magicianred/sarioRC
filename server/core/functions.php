@@ -1,7 +1,5 @@
 <?php
 
-// Common functions
-
 function render_component(string $template, array $data = []){
     require("../server/components/${template}.php");
 }
